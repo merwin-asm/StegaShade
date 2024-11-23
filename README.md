@@ -2,6 +2,8 @@
 
 [![Help Screen](https://media.discordapp.net/attachments/1289621011263914106/1309985024149295194/image.png?ex=67439220&is=674240a0&hm=0809af596f8e5fcc38232f50d58a9a32b7914779c3fd486253261baf51935354&=&format=webp&quality=lossless)](help.png)
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=merwin-asm-april4&label=Project%20views&color=0e75b6&style=flat" /> </p>
+
 ## Overview
 
 Stega Shade CLI is a user-friendly command-line interface tool designed for image-based steganography. With a focus on simplicity and security, it provides functionality to encode and decode messages into images, including password-protected encoding for enhanced privacy. The tool is built using Python and leverages robust algorithms to ensure data integrity and secrecy.
